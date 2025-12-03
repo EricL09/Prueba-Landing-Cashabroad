@@ -1,6 +1,6 @@
-import Header from './header.jsx'
+import Header from './Header.jsx'
 import HomePage from './HomePage.jsx'
-import Beneficios from './beneficios.jsx'
+import Beneficios from './Beneficios.jsx'
 import Dashboard from './Dashboard.jsx'
 import Footer from './Footer.jsx'
 import './App.css'
